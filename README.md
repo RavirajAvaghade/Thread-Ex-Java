@@ -26,7 +26,7 @@ Synchronization example
 Multiple threads execution
 ▶️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/thread-programs.git
+git clone https://github.com/RavirajAvaghade/thread-programs.git
 Open the project in any Java IDE (Eclipse / IntelliJ / VS Code)
 Compile and run the desired program:
 javac FileName.java
